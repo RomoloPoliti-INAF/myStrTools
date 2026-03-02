@@ -4,6 +4,10 @@
 ![Version](https://img.shields.io/badge/version-0.1.0-blueviolet?style=plastic)
 ![Tests](https://img.shields.io/badge/tests-61%20passed-brightgreen)
 ![Coverage](https://img.shields.io/badge/coverage-100%25-brightgreen)
+[![DOI](https://zenodo.org/badge/1167626806.svg)](https://doi.org/10.5281/zenodo.18832548)
+
+
+
 
 Small Python utilities to convert strings across common naming styles.
 
@@ -13,6 +17,12 @@ Supported styles:
 - `snake_case`
 - `kebab-case`
 - `space separated words`
+
+## Citation
+
+If you use `mystrtools`, please cite it using [CITATION.cff](CITATION.cff).
+
+DOI: [10.5281/zenodo.18832548](https://doi.org/10.5281/zenodo.18832548)
 
 ## Installation
 
