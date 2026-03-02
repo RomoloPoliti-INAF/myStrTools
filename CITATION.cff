@@ -3,7 +3,7 @@ message: "If you use myStrTools, please cite it as follows."
 title: "myStrTools"
 abstract: "Small Python utilities to convert strings across common naming styles."
 version: "0.1.0"
-# doi: 10.5281/zenodo.18832548
+doi: 10.5281/zenodo.18832671
 date-released: 2026-02-27
 url: https://github.com/RomoloPoliti-INAF/mystrtools
 authors:
